@@ -56,7 +56,7 @@ fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccMag, fBodyAccJerkMag, fBo
 fBodyGyroJerkMag. 
 
 Data – Human Activity Recognition Using Smartphones Dataset Version
-1.0. This data should be downloaded from the link below and extracted directly
+1.0. This data can be downloaded from the link below and extracted directly
 into the data directory used for this project.  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 R code - run_analysis.R does the following. 
