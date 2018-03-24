@@ -1,3 +1,7 @@
+# set working directory to location where dataset is stored
+
+setwd("C:/Users/lwrctan/Desktop/Coursera/Month3Week4/Project")
+
 ## STEP 1: Merges the training and the test sets to create one data set
 
 # read tables and merge training and test files of X, y and Subject 
